@@ -1,0 +1,9 @@
+# Dataset 
+1. X_test.txt
+2. Y_test.txt
+3. subject_test.txt
+4. X_train.txt
+5. Y_train.txt
+6. subject_train.txt
+7. features.txt
+8. activity_labels.txt
